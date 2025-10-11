@@ -17,7 +17,7 @@ Follow the installation instructions for your operating system.
 
 Open a terminal or command prompt and run the following command:
 
-    git clone https://github.com/Lachie-Perris/OTI_DFAT_Tutorials_2024.git
+    git clone https://github.com/Lachie-Perris/One_tree_island_data_analysis.git
 
 ## Step 3: Create and Activate a Virtual Environment
 
