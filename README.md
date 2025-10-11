@@ -1,5 +1,5 @@
 
-# Data Processing Workshop ( PT, ADV, CTD, ADCP, RADWave)
+# Data Processing Workshop 
 
 This notebook can be accessed via Binder. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lachie-Perris/One_tree_island_data_analysis.git/HEAD)
 
